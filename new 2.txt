@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<title>
+		Darkness
+		</title>
+		
+		<style>
+		body{background-color: black;
+		color: white;
+		}
+		</style>
+	<h1 style="text-align: center;">DARKNESS!!</h1>
+	
+	</head>
+
+
+	<body>
+		<p>
+			The day has come to an end. Sun sets. NIGHT HAS COME!!.<br>
+		There will always be light - natural or artificial - it will always lead as where we want to go, but what is there when there is no light.<strong> There will be DARKNESS!</strong><br>
+		There will be always darkness. Light is temporary but darkness is permanent. let's talk a little.<br>
+		where have you been? You were lost?! but why? Sorry but i have been worried about you. OK, I'll leave you alone.<br> 
+	</p>
+	<img src="file:///C:/Users/Right-Click/Pictures/2019-02/STK-20190221-WA0001.webp" alt=" this is the end! of you." style="display:block; margin-right: auto; margin-left:auto; " >
+	<p style="text-align: center; font-size: 300%;" >
+	no need for words because they are all forgotable.
+	</p>
+	
+	<a href="">
+	
+	
+	</body>
+
+
+
+
+
+
+
+
+	
+</html>	
+	
